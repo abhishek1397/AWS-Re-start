@@ -1,4 +1,4 @@
-**Compare and Contrast Automation and Orchestration**
+# Compare and Contrast Automation and Orchestration
 
 Software automation and  software orchestration are related, but operate at different scales.
 
