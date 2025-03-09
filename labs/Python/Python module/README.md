@@ -50,6 +50,14 @@ This project contains the following directories and files:
 │   └── string-insulin.py
 ├── Other-Scripts
 │   └── sys-admin.py
+├── Insulin files
+│   ├── ainsulin-seq-clean.txt
+│   ├── binsulin-seq-clean.txt
+│   ├── cinsulin-seq-clean.txt
+│   ├── insulin.json
+│   ├── lsinsulin-seq-clean.txt
+│   ├── preproinsulin-seq-clean.txt
+│   └── preproinsulin-seq.txt
 └── Readme
     └── README.md
 
