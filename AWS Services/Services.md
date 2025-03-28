@@ -38,7 +38,23 @@
 - **Remediates Vulnerabilities**: In addition to detecting issues, it provides **code suggestions** to **remediate** the security vulnerabilities and improve the safety of your code.
 
 
-
+| **Resource** | **Link** |
+| :--: | :--: |
+| Generative AI for every business | [AWS Generative AI](https://aws.amazon.com/generative-ai/) |
+| Amazon Bedrock | [AWS Amazon Bedrock](https://aws.amazon.com/bedrock/) |
+| Amazon Q Developer | [Amazon Q Developer](https://aws.amazon.com/developer/generative-ai/amazon-q/) |
+| Setting up Amazon Q Developer | [Getting Started with Amazon Q Developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/getting-started-q-dev.html) |
+| Amazon Q (Preview) | [Amazon Q Preview](https://aws.amazon.com/q/) |
+| Educate course “Artificial Intelligence” | [AWS Educate AI Course](https://aws.amazon.com/education/awseducate/) |
+| Amazon Bedrock - Getting Started | [Amazon Bedrock - Getting Started](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17508/amazon-bedrock-getting-started) |
+| Amazon Q Developer - Getting Started | [Amazon Q Developer - Getting Started](https://explore.skillbuilder.aws/learn/course/external/view/elearning/19491/amazon-q-developer-getting-started) |
+| Introduction to Generative AI - Art of the Possible | [Introduction to Generative AI](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17176/introduction-to-generative-ai-art-of-the-possible) |
+| What’s New with AWS? | [AWS What's New](https://aws.amazon.com/new) |
+| AWS Architecture Blog | [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/) |
+| AWS Certification | [AWS Certification](https://aws.amazon.com/certification) |
+| AWS Training and Certification Blog | [AWS Training Blog](https://aws.amazon.com/blogs/training-and-certification/) |
+| AWS SkillBuilder Courses | [AWS SkillBuilder Courses](https://explore.skillbuilder.aws/learn/catalog/view/54) |
+<br><br><br>
 
 
 When preparing for an AWS exam, specifically for services like **Amazon Bedrock** or **Amazon Q Developer**, there are a few key areas you might be asked about, based on the details you’ve shared. Here’s a list of potential topics or questions you could encounter in an AWS certification exam:
