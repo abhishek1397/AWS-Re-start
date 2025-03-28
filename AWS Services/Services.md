@@ -39,7 +39,7 @@
 
 
 | **Resource** | **Link** |
-| :--: | :--: |
+| :-- | :-- |
 | Generative AI for every business | [AWS Generative AI](https://aws.amazon.com/generative-ai/) |
 | Amazon Bedrock | [AWS Amazon Bedrock](https://aws.amazon.com/bedrock/) |
 | Amazon Q Developer | [Amazon Q Developer](https://aws.amazon.com/developer/generative-ai/amazon-q/) |
@@ -54,6 +54,7 @@
 | AWS Certification | [AWS Certification](https://aws.amazon.com/certification) |
 | AWS Training and Certification Blog | [AWS Training Blog](https://aws.amazon.com/blogs/training-and-certification/) |
 | AWS SkillBuilder Courses | [AWS SkillBuilder Courses](https://explore.skillbuilder.aws/learn/catalog/view/54) |
+
 <br><br><br>
 
 
