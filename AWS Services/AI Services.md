@@ -1,6 +1,26 @@
 # Additional AWS Services:
 ---
 
+| **Resource** | **Description** | **Link** |
+| :-- | :-- | :-- |
+| AWS Glue | Discover, prepare, and integrate all your data at any scale | [AWS Glue](https://aws.amazon.com/glue/) |
+| AWS Q for Data Integration | Generative AI-powered AWS Glue capability, enables you to build data integration jobs using natural language | [AWS Q for Data Integration](https://aws.amazon.com/glue/) |
+| Amazon Managed Workflows for Apache Airflow | Secure and highly available managed workflow orchestration for Apache Airflow | [Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/) |
+| Amazon AppFlow | Automate data flows between software as a service (SaaS) and AWS services | [Amazon AppFlow](https://aws.amazon.com/appflow/) |
+| Amazon Aurora zero-ETL Integrations with Amazon Redshift | Perform near real-time analytics and ML on petabytes of transactional data in Aurora | [Amazon Aurora with Redshift](https://aws.amazon.com/aurora/) |
+| Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift | Perform near real-time analytics and ML on petabytes of transactional data in Aurora PostgreSQL | [Amazon Aurora PostgreSQL](https://aws.amazon.com/rds/aurora/) |
+| Amazon DynamoDB zero-ETL integration with Amazon Redshift | Perform near real-time analytics and ML on petabytes of data in DynamoDB | [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) |
+| Amazon RDS for MySQL zero-ETL integration with Amazon Redshift | Perform near real-time analytics and ML on petabytes of data in RDS for MySQL | [Amazon RDS for MySQL](https://aws.amazon.com/rds/mysql/) |
+| Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service | Perform near real-time analytics and search on data in DynamoDB | [Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/) |
+| AWS Database Migration Service | Move your database and analytics workflows to AWS quickly, securely, with minimal downtime and zero data loss | [AWS Database Migration Service](https://aws.amazon.com/dms/) |
+| Amazon Athena | Analyze petabyte-scale data where it lives with ease and flexibility | [Amazon Athena](https://aws.amazon.com/athena/) |
+| Amazon Redshift | Best price-performance for cloud data warehousing | [Amazon Redshift](https://aws.amazon.com/redshift/) |
+| AWS Lake Formation | Build, manage, and secure data lakes in days | [AWS Lake Formation](https://aws.amazon.com/lake-formation/) |
+| AWS Data Exchange | Easily find, subscribe to, and use third-party data in the cloud | [AWS Data Exchange](https://aws.amazon.com/data-exchange/) |
+| AWS Glue Catalog | Store, annotate, and share metadata in the AWS cloud | [AWS Glue Catalog](https://aws.amazon.com/glue/) |
+| Amazon DataZone | Unlock data across organizational boundaries with built-in governance | [Amazon DataZone](https://aws.amazon.com/datazone/) |
+
+
 |  Sr.No  |  Logo  |  Service  | 
 |  :---: | :---------------: | :----------------------------: |
 1 |  <img src="https://tinyurl.com/9vv8jnxz" alt="AWS-Bedrock_logo" width="128" height="128"> | **AWS Bedrock** |
